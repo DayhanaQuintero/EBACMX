@@ -4,5 +4,9 @@ b=10
 c=(a*b)
 print("El resultado es",c)
 
-d= c*100
+
+# Cambio a factor 200 por Directorio
+
+
+d= c*200
 print("El resultado total es",d)
